@@ -1,0 +1,22 @@
+h1, h2, h3, p {
+  font-family: verdana;
+  background-color: black;
+}
+h1, h2 {
+  color: white;
+}
+h1 {
+  font-size: 50px;
+  text-align: center;
+}
+a {
+  font-size: 16px
+  color: aquamarine;
+}
+img {
+  text-align: center;
+}
+p {
+  font-size: 21px;
+  color: gray;
+}
